@@ -1,0 +1,2 @@
+small_dataset /scratch/ragaram/keypoint_network/hour_glass/small_dataset_images
+large_dataset /scratch/ragaram/keypoint_network/hour_glass/large_dataset_images
